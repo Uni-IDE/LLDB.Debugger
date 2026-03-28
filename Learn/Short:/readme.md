@@ -1,0 +1,3 @@
+- [3 MUST HAVE LLDB COMMANDS FOR REVERSE ENGINEERING MACOS APPLICATIONS](https://www.youtube.com/shorts/y9xGqqDsEkU)
+- [Master LLDB: 5 Essential Commands for Efficient Debugging in Computer Science Engineering #LLDB](https://www.youtube.com/shorts/9oPY5ZdsGm4)
+- [LLDB commands - po vs v #iosdeveloper #debugging #ios #xcode](https://www.youtube.com/shorts/cDl4zGP_O1A)
